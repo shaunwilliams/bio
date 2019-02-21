@@ -1,0 +1,24 @@
+img {
+	width: 50%;
+}
+h1 {
+	font-family: 'Felipa', cursive;
+	color: #F686BD
+}
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+h2{
+	color: #F686BD
+}
+
+body{
+	background-color: #464F51
+}
+p{
+	color:white;
+	transition: opacity .5s ease
+}
+.first:hover p{
+	opacity:1;
+}
